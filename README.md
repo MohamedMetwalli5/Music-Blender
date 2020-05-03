@@ -5,3 +5,6 @@ Music editing game
 
 ![](Screen%20Shots/1.PNG)
 ![](Screen%20Shots/2.PNG)
+![](Screen%20Shots/3.PNG)
+![](Screen%20Shots/4.PNG)
+![](Screen%20Shots/5.PNG)
