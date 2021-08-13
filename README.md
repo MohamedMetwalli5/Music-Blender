@@ -2,7 +2,7 @@
 ![Language](https://img.shields.io/badge/language-Java%20-red.svg)
 
 # Music-Blender
-Music editing game 
+Music editing game.
 
  Note : if you downloaded the code on your laptop or pc then change "s" value in the code in "Mixer" class to the username of your machine and put the file         that is called "tones" on your desktop
 
