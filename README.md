@@ -9,6 +9,6 @@ If you downloaded the code on your laptop or pc then change the "s" value in the
 
 The Video :
 <br>
-[![Virtual Drums](https://img.youtube.com/vi/cdJeKnXsDnI/0.jpg)](https://www.youtube.com/watch?v=orEa1i0adRQ)
+[![Virtual Drums](https://img.youtube.com/vi/orEa1i0adRQ/0.jpg)](https://www.youtube.com/watch?v=orEa1i0adRQ)
 <br>
 
