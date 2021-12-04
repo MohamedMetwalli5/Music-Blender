@@ -12,8 +12,3 @@ The Video :
 [![Virtual Drums](https://img.youtube.com/vi/cdJeKnXsDnI/0.jpg)](https://www.youtube.com/watch?v=orEa1i0adRQ)
 <br>
 
-![](Screen%20Shots/1.PNG)
-![](Screen%20Shots/2.PNG)
-![](Screen%20Shots/3.PNG)
-![](Screen%20Shots/4.PNG)
-![](Screen%20Shots/5.PNG)
