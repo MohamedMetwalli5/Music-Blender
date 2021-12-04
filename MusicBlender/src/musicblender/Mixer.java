@@ -686,7 +686,7 @@ public class Mixer extends JFrame implements KeyListener{
 				   }
 				  
 			  }else if(e.getKeyCode() == KeyEvent.VK_T) {
-				  
+
 				  try{
 					  Clip clip = AudioSystem.getClip();
 					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\Alesis-S4-Plus-Shark-Bass-C2.wav")));
@@ -819,7 +819,7 @@ public class Mixer extends JFrame implements KeyListener{
 				  
 				  try{
 					  Clip clip = AudioSystem.getClip();
-					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\1980s-Casio-Harpsichord-C5.wav")));
+					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\mixkit-dj-record-swipe-708.wav")));
 					  clip.start();
 					  b15.setBackground(Color.yellow);
 				     }
@@ -975,7 +975,7 @@ public class Mixer extends JFrame implements KeyListener{
 				  
 				  try{
 					  Clip clip = AudioSystem.getClip();
-					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\E-Mu-Proteus-FX-FrHorns2-C4.wav")));
+					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\Pizzicato_loop_92bpm.wav")));
 					  clip.start();
 					  b27.setBackground(Color.yellow);
 				     }
@@ -1042,7 +1042,7 @@ public class Mixer extends JFrame implements KeyListener{
 				  
 				  try{
 					  Clip clip = AudioSystem.getClip();
-					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\E-Mu-Proteus-FX-VibroPad-C3.wav")));
+					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\9FRQEAU-dj-record-scratch-3.wav")));
 					  clip.start();
 					  b32.setBackground(Color.yellow);
 				     }
@@ -1055,7 +1055,7 @@ public class Mixer extends JFrame implements KeyListener{
 				  
 				  try{
 					  Clip clip = AudioSystem.getClip();
-					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\8-Bit-Noise-1.wav")));
+					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\JKT4MUR-dj-record-scratch-4.wav")));
 					  clip.start();
 					  b33.setBackground(Color.yellow);
 				     }
@@ -1081,7 +1081,7 @@ public class Mixer extends JFrame implements KeyListener{
 				  
 				  try{
 					  Clip clip = AudioSystem.getClip();
-					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\Ensoniq-SQ-1-ClassicGuitar-C3.wav")));
+					  clip.open(AudioSystem.getAudioInputStream(new File("C:\\Users\\"+s+"\\Desktop\\tones\\Flute_loop_92bpm.wav")));
 					  clip.start();
 					  b35.setBackground(Color.yellow);
 				     }
