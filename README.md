@@ -7,6 +7,11 @@ Music editing game.
 ## Note : 
 If you downloaded the code on your laptop or pc then change the "s" value in the code in "Mixer" class to the username of your machine and put the folder that is called "tones" on your desktop.
 
+The Video :
+<br>
+[![Virtual Drums](https://img.youtube.com/vi/cdJeKnXsDnI/0.jpg)](https://www.youtube.com/watch?v=orEa1i0adRQ)
+<br>
+
 ![](Screen%20Shots/1.PNG)
 ![](Screen%20Shots/2.PNG)
 ![](Screen%20Shots/3.PNG)
