@@ -4,11 +4,14 @@
 # Music-Blender
 Music editing game. 
 
-## Note : 
+## Note: 
 If you downloaded the code on your laptop or pc then change the "s" value in the code in "Mixer" class to the username of your machine and put the folder that is called "tones" on your desktop.
 
-The Video :
+The Video:
 <br>
 [![Virtual Drums](https://img.youtube.com/vi/orEa1i0adRQ/0.jpg)](https://www.youtube.com/watch?v=orEa1i0adRQ)
 <br>
 
+# Author
+**Mohamed Metwalli** - Software Engineer & Technical Writer  
+🌐 [mohamedmetwalli.com](https://www.mohamedmetwalli.com) · [LinkedIn](https://www.linkedin.com/in/mohamed-metwalli5)
